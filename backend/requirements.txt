@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+openai
+moviepy
+python-multipart
+python-dotenv
+qrcode
+pillow
+gTTS
